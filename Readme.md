@@ -66,7 +66,7 @@ It shows how increasing the number of neurons in the hidden layer allows the net
 
 - Yasin Pourraisi  
   - [GitHub](https://github.com/yasinpurraisi)  
-  - Email: yasinpurraisi@gmail.com  
+  - Email: yasinpourraisi@gmail.com
   - Telegram: @yasinprsy
 
 ---
