@@ -68,7 +68,3 @@ It shows how increasing the number of neurons in the hidden layer allows the net
   - [GitHub](https://github.com/yasinpurraisi)  
   - Email: yasinpourraisi@gmail.com
   - Telegram: @yasinprsy
-
----
-
-Feel free to fork, modify, and use this notebook as a starting point for learning neural networks and PyTorch!
